@@ -1,0 +1,30 @@
+body{
+    color: white;
+    font-family: poppins;
+}
+.navbar-default{
+    background: #2c3e50;
+}
+
+.container{
+    color: white;
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a{
+    color: white;
+}
+.navbar-header>.navbar-brand{
+    font-weight: 700;
+    color:#57d8f8 ;
+}
+.jumbotron{
+    color: #2c3e50;
+    font-weight: bolder;
+}
+.jumbotron .med{
+    font-weight: 300;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+span{
+    font-weight: bold;
+}
